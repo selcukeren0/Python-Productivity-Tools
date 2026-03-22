@@ -1,3 +1,4 @@
+![Python Productivity Toolkit](th3.png)
 Bu repo, günlük akademik ve içerik üretim süreçlerimi hızlandırmak için geliştirdiğim yardımcı araçları içerir.
 
 Smart PNG to PDF Converter (`png_to_pdf.py`)
